@@ -5,7 +5,7 @@
 
 ## Assignment 
 * Create a simple HTML Page as shown in the image.
-![alt text]()
+![alt text](https://github.com/bangalorebyte-cohort22/Introduction-to-HTML/blob/master/html%20assignment.png)
 
 
 
